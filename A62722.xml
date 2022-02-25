@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the high court of Parliament of the Common-wealth of England, Scotland, Ireland, and the dominions thereunto belonging. The humble petition of divers, in behalfe of themselves, and about fifteene hundred others (necessitous publike-faith lenders) inhabiting in and about London (whom lesse then fifty thousand pounds will fully satisfie and) who are altogether unable to double what they have lent</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62722</idno>
+            <idno type="STC">Wing T1399B</idno>
+            <idno type="STC">ESTC R220121</idno>
+            <idno type="EEBO-CITATION">99831549</idno>
+            <idno type="PROQUEST">99831549</idno>
+            <idno type="VID">36012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the high court of Parliament of the Common-wealth of England, Scotland, Ireland, and the dominions thereunto belonging. The humble petition of divers, in behalfe of themselves, and about fifteene hundred others (necessitous publike-faith lenders) inhabiting in and about London (whom lesse then fifty thousand pounds will fully satisfie and) who are altogether unable to double what they have lent</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:36012:1"/>
+            <head>To the High Court of PARLIAMENT of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Dominions thereunto belonging.
+The humble Petition of divers, in behalfe of themſelves, and about fifteene hundred others (neceſſitous Publike-faith-lenders) inha<g ref="char:EOLhyphen"/>biting in and about <hi>London</hi> (whom leſſe then fifty thouſand pounds will fully ſatiſfie and) who are altogether unable to double what they have lent.</head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners did in the years 1641, 1642, 1643, 1644. &amp;c. lend ſe<g ref="char:EOLhyphen"/>veral ſums of money, &amp;c. upon the credit and Faith of the Nation (accord<g ref="char:EOLhyphen"/>ing to the Propoſitions, &amp;c.) at the requeſts, and earneſt deſires of the Par<g ref="char:EOLhyphen"/>liament, in their greateſt neceſſities.</p>
+            <p>That through their good affection to the well-being of their native Countrey, they were carried forth to lend (not only ſo timely, but alſo) ſo largely (in which they were Exemplary to the whole Nation (not doubting to have had it againe in a very ſhort time) that they thereby made themſelves altogether unable to double, (as o<g ref="char:EOLhyphen"/>thers did that lent ſparingly (though far better able) whereby many have been utterly diſpoyled of their trades and livelihoods, many become priſoners, others (in abundance) in hourly fear of becoming ſuch, hundreds ſo poor, they have not bread (of their owne) to este, but are ſupported either by friends, Pariſhes, &amp;c.</p>
+            <p>That they have not been wanting any time this ſeven years to make known the ſad ef<g ref="char:EOLhyphen"/>fects of their ſaid want thereof unto the Parliaments, the Councel of State, and to the Lord Prorector, and his Councel, but (to their great grief and encereaſe of their miſery) all hath hitherto proved little more then fruitleſſe coſt and labour.</p>
+            <p>That according to an Act of the 7. of <hi>October</hi> 1653. they have preſented their claims to their ſaid ſeveral ſummes before the Comniſſioners therein named, in whoſe cuſtody they yet remaine.</p>
+            <p>That your Petitioners are not at all againſt general ſatisfaction, (but ſhould greatly rejoyce to ſee it effected) only (fearing it will prove a hard work to be done at once, and) knowing their own neceſſities to be ſo unſupportable, and themſelves ſo forward, and timely appearers both in perſon and purſe; they deſire they may be taken care for, and clearly paid off in the firſt place,</p>
+            <p>Therefore they are moſt humble and earneſt Sutors unto your Honours, that you would be pleaſed now to take their ſad and diſtreſſed condition into your moſt ſerious and Chriſti<g ref="char:EOLhyphen"/>an conſideration; to ſettle ſome ſpeedy and effectual way for paying your Petitioners their ſaid ſummes (and the intereſt thereof,) ſo ſhall you take away the great reproach the credit of the Nation yet lies under, the common deriſion your Petitioners have long un<g ref="char:EOLhyphen"/>dergone (by ſuch as have greatly rejoyced to ſee them thus become poor) ſet many priſo<g ref="char:EOLhyphen"/>ners at liberty, inable hundreds to keep and keep up their credis and callings, many to eate their own bread, that now live upon others charity, the ableſt amongſt them to pay their debts, and the whole body of them, their poor wives and children to pray for your Honours temporal and eternal prosperity.</p>
+            <div type="reasons">
+               <head>Reaſons, Argument, or Motives humbly offered to the conſideration of the ſaid High Court, and every individual Member thereof, on the behalf, and for the primary, and di<g ref="char:EOLhyphen"/>stinct ſatiſfying of the ſaid Petitioners, viz.</head>
+               <p n="1">1. BEcauſe they, &amp;c. in and about <hi>London</hi> were alwayes the firſt lenders, and moſt for<g ref="char:EOLhyphen"/>ward appearers upon every ſtreight and occaſion, and were in that reſpect the great wheele that (by example) moved all the reſt in the Countries that lent any thing at all.</p>
+               <p n="2">2. Becauſe men in and about <hi>London</hi> (and in particular, your ſaid Petitioners,) did lend much more in proportion (as well as more timely and frequently) then any others; as being at the very elbow of, and daily converſant with the Members of that Parliament; and under the powerful Miniſtery of ſuch, as uſed all their utmoſt abilities to perſwade men to lend, and take Armes for the Parliament; all which were as ſo much fuel heaped upon the fire of their good affection, which joyned with hopes of ſure and ſpeedy repay<g ref="char:EOLhyphen"/>ment, carried them forth to lend above, and beyond their abilities.</p>
+               <p n="3">3. Becauſe that they, their ſons, ſervants, &amp;c. in and about <hi>London,</hi> were none of the leaſt part of the firſt Army, nor of recruiting the after Armies, whenſoever broken by the enemies, which cauſed them to ſay, It is in vaine for us to fight any longer, unleſſe <hi>London</hi> be burnt or deſtroyed; for let us beat their Armies as oft as we will, yet that curſed City ſtill ſends forth more.</p>
+               <p n="4">4. Becauſe they humbly conceive their ſaid active forward affectionis not to be equali<g ref="char:EOLhyphen"/>zed in all the Land; for no where elſe is any to be found, that (like the Widow) threw in all they had; or of ſuch as took up money at intereſt (and pay intereſt for it ſtill,) on purpoſe to lend it to the Parliament; or of hundreds that lent a 4, and 3d part, or half of their whole eſtates voluntarily.</p>
+               <p n="5">5. Becauſe they have been ſo greatly inſtrumental in many kinds, to advance the Common Cauſe owned by the Parliament, <hi>viz.</hi> in their conſtant readineſſe upon all oc<g ref="char:EOLhyphen"/>caſions (even at the very beck of the Parliament) with their own horſe, armes, &amp;c. to move into the adjacent Countieſ, &amp;c. to feaze the Armes or perſons, &amp;c. of ſuch as appear<g ref="char:EOLhyphen"/>ed enemies; as alſo by their unwearied activeneſſe amongſt their neighbours, to rectifie their affection, perſwade them to lend, or give money, &amp;c. and at all meetings and pla<g ref="char:EOLhyphen"/>ces in the years 1642. 1643. &amp;c. where any way or means for publike good or ſafety was intended, debated, &amp;c. about forming and raiſing the Auxiliaries, in arming and encou<g ref="char:EOLhyphen"/>raging them; in fortifying the Cities of <hi>London, Weſetminſter,</hi> &amp;c. and in guarding the Parliament, Tower, Forts, &amp;c. and many going into the Army, and all this at their own charge; by all which wayes and occaſions, they exceedingly hindered themſelvs in their cal<g ref="char:EOLhyphen"/>lings, (by loſſe of time, and expence of much money, and ſome loſt them quite,) and ſo were utterly undone; and beſides, they have owned and ſtood cloſe by the ſaid Cauſe in the greateſt ſtraits and worſt of times.</p>
+               <p n="6">6. Being tradeſmen, and lending beyond their abilities (as aforeſaid) to anſwer the oft and earneſt deſires of Parliament, they have exceedingly wanted their money ever fince to manage their callings, and ſome forced either to leave them quite off (for want of mo<g ref="char:EOLhyphen"/>ney) or deale upon credit, as well as they could; and being ſo forced to buy hard penny<g ref="char:EOLhyphen"/>worths, they are over-topt with young ones (who having great ſtocks (as never lend<g ref="char:EOLhyphen"/>ing any thing) and your ſaid Petitioners ſmall ones, they even eate them out, and get their trading and cuſtomers from them; and beſides, ſome are grown ſo old, and ſo caſt down with grief (that they ſhould be ſo long kept from their ſaid money in their ſo great neceſſities) that they are not able to work or look after their trades as formerly; many are ſhut up cloſe in priſons, and hundreds more ready to be haled in daily after them, and therefore have the more need of their money.</p>
+               <p n="7">7. Becauſe they have had many verbal and printed promiſes of Parliament, of ſetting ſome eminent marks of honour upon the Citizens of <hi>London,</hi> for their unparallel'd, large and voluntary Lones, &amp;c. none of which have beene made good unto your Petitioners, (and therefore they deſire to be paid their ſaid ſummes in the firſt place, and they ſhall take that as honour enough, and forget all the reſt) but rather the contrary hath befallen them; for hitherto <hi>London</hi> (within the freedom) bears the fifteenth part of the Taxes of all <hi>England,</hi> (of which the Petitioners have borne the more by reaſon of their firſt for<g ref="char:EOLhyphen"/>wardneſſe; many of them not daring ſince to aske any caſe (as living altogether upon their credits, left their weak eſtates ſhould be diſcovered, and ſo be utterly undone) which is ſo great a diſproportion, that one that lives within, of equal eſtate with one that lives without the freedome, is taxed at ſix pence for the others penny; and in that hea<g ref="char:EOLhyphen"/>vie Tax of 10000. li. <hi>per</hi> week, the 50 Subſidies, fortification moncy, &amp;c. which were laid upon <hi>London</hi> only, and no where elſe: alſo the Exciſe, which is little or nothing to moſt Countrey men, though of great eſtates; but lies very havie upon many Artificers, tra<g ref="char:EOLhyphen"/>ders, &amp;c. in <hi>London,</hi> though of very meane eſtates; all which hath cauſed many of the ableſt Citizens to leave the Citie, and take houſes in the Suburbs, or ſome few miles off, to avoid the ſaid burthens; which thoſe that ſtay behinde are neceſſitated to bear till they ſink quite down under them.</p>
+               <p n="8">8. Becauſe the Parliament did promiſe and declare, that none that were forced to lend, ſhould be paid till all that willingly lent was firſt paid.</p>
+               <p n="9">9. Becauſe they promiſed and declared, that none ſhould be neglected or flighted, (that faithfully ſtood to the ſaid Cauſe, (as your Petitioners have done) but ſhould be thankfully rewarded, to their own honour, and the good of their poſterity: they onely deſire that which is properly due unto them without further honour, and therefore hope they ſhall certainly be provided for by your honours.</p>
+               <p n="10">10. Becauſe it ſeemes (to them) very vnlikely, that Gentlemen, Yeomen, &amp;c. in the Countries (who generally lent ſparingly,) or townſmen, (unleſſe one perhaps of hun<g ref="char:EOLhyphen"/>dreds) ſhould have the like need of their money with your Petitioners, who have ſpent ſeven or eight years time in ſeeking after it, and the others in 11. on 12. years neither ſeek<g ref="char:EOLhyphen"/>ing nor petitioning for it; but if any be ſo neceſſitous there, they do heartily wiſh and deſire their ſpeedy ſatisfaction.</p>
+               <p n="11">11. Becauſe as it hath already been very great, ſo it is certain it will be much greater hurt to them if they be kept longer from their ſaid money; whereas to rich men, or ſuch as can double, it will be no dammage at all to ſtay a little longer, (becauſe you are to give them intereſt all the time it is out) and it may be ſome would put it to intereſt elſe<g ref="char:EOLhyphen"/>where, if they had it, as having no uſe for it themſelves.</p>
+               <p n="12">12. Becauſe they have been ſo long Petitioners (have amongſt them ſpent ſo great a quantity of money, and ſo much precious time, in ſeeking after, and petitioning for it;) and that they do again moſt earneſtly pray that they may be provided for: they may be eaſed from their long, cold, hungry, grievous and weariſome journeyes and attendance in ſeeking for it; which hath been ſo prejudicial to many of them, that it had been mer<g ref="char:EOLhyphen"/>cy in the Parliament, to have told them at the firſt, that they would not have paid them at all, rather then to have put them off from time to time to the ruine of many already, and of abundance more if not ſpeedily prevented by your Honours effectual providing for their ſatisfaction.</p>
+               <p>In anſwer to that old and common objection, (by which ſome have hitherto hindered your Petitioners ſatisfaction) <hi>viz.</hi> that the Parliament muſt be juſt, and do things with<g ref="char:EOLhyphen"/>out partiality, and therefore may not provide for them before they provide for all lend<g ref="char:EOLhyphen"/>ers in general.) They anſwer, it is not counted unjuſt, or partial for any private man, that holds money at intereſt, of ſeveral people, to pay ſome of them their money in, and continue to owe the others their money longer, at the ſame rates and ſecurities as be<g ref="char:EOLhyphen"/>fore: and further they anſwer, that it was not accounted unjuſt or partial, to borrow it of one before another; nor in one man to lend his money, &amp;c. or appear before another; for then no mans money, or appearance was turned back, becauſe his rich or politick-lending neighbours, were not come along with them: nor was there any that foretold the middling or poorer fort of people, that they muſt keep enough to be able after<g ref="char:EOLhyphen"/>ward to double what they then lent; nor was the meaneſt, or moſt zealous, called in queſtion, why they lent ſo much, or ſo often; and therefore they hope your Honours will hearken to no ſuch diſhonourable objections, but go on to pay your ſaid Petitioners in the firſt place, and the reſt as ſoone as it may be done.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
